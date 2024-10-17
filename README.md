@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sw3xx, a sophomore
-- - 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning
 - 🌱 I used to learn python...uh, I'm actually a beginner.
 - 📫 How to reach me ...
 - 😄 Welcome to communicate with me and give me advice！！！
