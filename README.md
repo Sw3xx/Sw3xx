@@ -1,4 +1,4 @@
-## Hi there, I'm Alexis 👋
+## Hi there, I'm Yuxuan CHEN 👋
 
 I’m a student majoring in Financial Mathematics, with a strong interest in Artificial Intelligence and its applications.
 
